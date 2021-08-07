@@ -1,0 +1,29 @@
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\bin\Debug\TacticalCombat.exe.config
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\bin\Debug\TacticalCombat.exe
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\bin\Debug\TacticalCombat.pdb
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.g.resources
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.exe
+c:\users\user\documents\visual studio 2017\Projects\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.pdb
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\bin\Debug\TacticalCombat.exe.config
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\bin\Debug\TacticalCombat.exe
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\bin\Debug\TacticalCombat.pdb
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.csprojAssemblyReference.cache
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\MainWindow.g.cs
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\App.g.cs
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat_MarkupCompile.cache
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat_MarkupCompile.lref
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\MainWindow.baml
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.g.resources
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.Properties.Resources.resources
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.csproj.GenerateResource.cache
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.csproj.CoreCompileInputs.cache
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.exe
+C:\Users\pokef\Documents\TacticalCombat\TacticalCombat\obj\Debug\TacticalCombat.pdb
